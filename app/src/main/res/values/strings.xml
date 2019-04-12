@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomWidget</string>
+    <string name="clms">测量模式</string>
+    <string name="clockview">简单时钟</string>
+</resources>
